@@ -312,7 +312,8 @@ p.invisibleInk {
 }
 
 .header-area {
-  background-color: #ffffff;
+  background-color:white;
+  /* background: linear-gradient(to right, #f6f1d3, #648880 85%, #293f50); */
   position: absolute;
   top: 0px;
   left: 0px;
@@ -1448,7 +1449,7 @@ form#contact .contact-dec img {
 form#contact {
   margin-left: 30px;
   position: relative;
-  background-color: rgb(17 120 122);
+  background-color: rgb(255, 255, 255);
   padding: 60px 30px;
   border-radius: 20px;
 }
